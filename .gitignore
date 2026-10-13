@@ -1,0 +1,6 @@
+hts-cache/
+hts-log.txt
+cookies.txt
+__pycache__/
+*.pyc
+.DS_Store

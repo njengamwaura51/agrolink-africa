@@ -1,0 +1,56 @@
+@font-face {
+  font-family: 'Archivo Narrow';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/archivonarrow/v35/tss7ApVBdCYD5Q7hcxTE1ArZ0bb1k3JSLwe1hB965BJi50muPCU.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Archivo Narrow';
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/archivonarrow/v35/tss7ApVBdCYD5Q7hcxTE1ArZ0bb1k3JSLwe1hB965BJQ50muPCU.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Archivo Narrow';
+  font-style: italic;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/archivonarrow/v35/tss7ApVBdCYD5Q7hcxTE1ArZ0bb1k3JSLwe1hB965BK84EmuPCU.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Archivo Narrow';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/archivonarrow/v35/tss7ApVBdCYD5Q7hcxTE1ArZ0bb1k3JSLwe1hB965BKF4EmuPCU.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Archivo Narrow';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/archivonarrow/v35/tss5ApVBdCYD5Q7hcxTE1ArZ0Zz8oY2KRmwvKhhvLFG6o3mp.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Archivo Narrow';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/archivonarrow/v35/tss5ApVBdCYD5Q7hcxTE1ArZ0Zz8oY2KRmwvKhhvHlG6o3mp.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Archivo Narrow';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/archivonarrow/v35/tss5ApVBdCYD5Q7hcxTE1ArZ0Zz8oY2KRmwvKhhv8la6o3mp.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Archivo Narrow';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/archivonarrow/v35/tss5ApVBdCYD5Q7hcxTE1ArZ0Zz8oY2KRmwvKhhvy1a6o3mp.ttf) format('truetype');
+}

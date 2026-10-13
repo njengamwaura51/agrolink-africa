@@ -1,0 +1,19 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>500 Internal Server Error</title>
+</head><body>
+<h1>Internal Server Error</h1>
+<p>The server encountered an internal error or
+misconfiguration and was unable to complete
+your request.</p>
+<p>Please contact the server administrator at 
+ [no address given] to inform them of the time this error occurred,
+ and the actions you performed just before this error.</p>
+<p>More information about this error may be available
+in the server error log.</p>
+<p>Additionally, a 500 Internal Server Error
+error was encountered while trying to use an ErrorDocument to handle the request.</p>
+<hr>
+<address>Apache Server at agribusiness.cmsmasters.studio Port 443</address>
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v4bc70e2c01a94c73b74392e4234840661791215815920" integrity="sha512-L0ha0OXavK/8okipN9F8BtP84dg9DUhPERbBXzwI6dgTA55d2+yweo3pn5CSFYs45/r8md2+xvUPtTdvTNRfjA==" data-cf-beacon='{"version":"2024.11.0","token":"63307acec0a447f2822bfb8c81dbf267","r":1,"spa":2}' crossorigin="anonymous"></script>
+</body></html>
